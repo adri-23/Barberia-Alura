@@ -1,0 +1,48 @@
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #b8b7b6;
+    padding: 20px;
+}
+
+.tituloCentralizado{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block; /*q nuestra lista solo use su espacio y no todo*/
+    vertical-align: top;  /*para alinear nuestra lista a la izquierda*/
+    width: 20%; /*ocuparme el 20 de la pantalla*/
+    margin-right: 15%; /*dar un margen derecho*/
+}
+
+.imagenDiferenciales{
+    width: 50%;
+}
